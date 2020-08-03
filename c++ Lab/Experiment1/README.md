@@ -1,14 +1,11 @@
-#### Experiment 1
-
-### Aim of the Experiment 1
-To Display all the names and roll numbers of students
-
-## step by step procedure
+#### EXPERIMENT 1
+### AIM OF THE EXPERIMENT 1
+TO DISPLAY ALL THE NAMES AND ROLL NUMBERS OF STUDENTS
+## STEP BY STEP PROCEDURE
 1.
 2.
 3.
-# output obtained
-
+# OUTPUT OBTAINED
 ![output](wise.png)
 
 
