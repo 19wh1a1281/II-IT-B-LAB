@@ -11,8 +11,7 @@ To Display the names and roll numbers of students
 
 output obtained
 
-
-(output)(boxes.jpg)
+![output](boxes.jpg)
 
 
 
