@@ -6,7 +6,7 @@ TO DISPLAY ALL THE NAMES AND ROLL NUMBERS OF STUDENTS
 2.
 3.
 # OUTPUT OBTAINED
-![output](wise.png)
+![output](wise. jpg)
 
 
 
