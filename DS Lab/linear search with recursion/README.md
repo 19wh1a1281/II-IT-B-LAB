@@ -13,4 +13,4 @@ Output 2 (key element = 99):
 we check each element of the given array against the given key element =99.
 the search reaches the last element of the array but as no element is matched the saerch ends here.Therefore the search is unsucessful as the element is not present.
 # OUTPUT OBTAINED
-![output](linear search with recursive function.png)
+![output](linear search with recursive function.cpp)
