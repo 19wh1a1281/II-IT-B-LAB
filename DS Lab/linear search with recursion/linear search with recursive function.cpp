@@ -10,7 +10,7 @@ int main()
 		printf("search is unsucessful");
 	}
 	else{
-		printf("search is sucessful at position %d",position + 1);
+		printf("search is sucessful at position %d",position);
 	}
 	return 0;
 }
