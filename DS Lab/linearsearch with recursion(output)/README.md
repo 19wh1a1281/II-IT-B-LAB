@@ -7,4 +7,4 @@ output 1(key element = 99):
 search is unsucessful when key element = 99.
 #OUTPUT OBTAINED
 ![output](screenshot(41).png)
-![output 1](screenshot(42).png)
+![output1](screenshot(42).png)
