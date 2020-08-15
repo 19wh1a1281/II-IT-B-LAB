@@ -4,7 +4,7 @@ DESCRIPTION:
 we use Linear search to find whether a number is present in an array.
 if its present,then at what location it occurs.
 it is straightforward i.e we compare each element with the element to search until we find it or the list ends.
-it is also known as a sequential saerch.
+it is also known as a sequential saerch. find whether a number is present in an array. if its present,then at what location it occurs. it is straightforward i.e we compare each element with the element to search until we find it or the list ends.  
 PROCEDURE:
 Output 1 (key element = 15):
 we check each element of the given array against the given key element = 15.
