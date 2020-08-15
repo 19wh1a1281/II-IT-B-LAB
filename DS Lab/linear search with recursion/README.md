@@ -1,5 +1,5 @@
 ##AIM OF THE EXPERIMENT
-To perform LINEAR SEARCH on a given array using RECURSION.#include<stdio.h>
+To perform LINEAR SEARCH on a given array using RECURSION.
 DESCRIPTION:
 we use Linear search to find whether a number is present in an array.
 if its present,then at what location it occurs.
