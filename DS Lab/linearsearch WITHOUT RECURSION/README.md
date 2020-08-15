@@ -5,8 +5,8 @@
 output(key element = 15):
 we check each element of the given array against the given key element = 15.
 when the search reaches 6th element,the element is matched with the key element,therefore the search ends here.thus position is obtained i.e.'6'.
-output1(key element = 100):
-we check each element of the given array against the given key element = 100.
+output1(key element = 99):
+we check each element of the given array against the given key element = 99.
 the search reaches the last element of the array but as no element is matched the search ends here.therefore the search is unsucessful as the element is not present.
 ###OUTPUT OBTAINED
 ![output](linear search with non-recursive function.cpp)
