@@ -8,7 +8,7 @@ it is also known as a sequential saerch. find whether a number is present in an 
 PROCEDURE:
 Output 1 (key element = 15):
 we check each element of the given array against the given key element = 15.
-when the search reaches 7th element,the element is matched with the key element,therefore the search ends here.thus the position is obtained i.e '7'.
+when the search reaches 6th element,the element is matched with the key element,therefore the search ends here.thus the position is obtained i.e '6'.
 Output 2 (key element = 99):
 we check each element of the given array against the given key element =99.
 the search reaches the last element of the array but as no element is matched the saerch ends here.Therefore the search is unsucessful as the element is not present.
