@@ -8,6 +8,7 @@ int main()
 	position = ReLinearsearch(a,10,Key);
 	if (position == -1){
 		printf("search is unsucessful");
+
 	}
 	else{
 		printf("search is sucessful at position %d",position);
